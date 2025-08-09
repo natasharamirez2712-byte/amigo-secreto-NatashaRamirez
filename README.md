@@ -5,16 +5,16 @@ Permite agregar participantes, eliminarlos y realizar un sorteo aleatorio, está
 
 ## Capturas de pantalla y funcionabilidad
 ### Pantalla principal
-![Pantalla principal](assets\PantallaPrincipal.png)
+![Pantalla principal](assets\Pantalla Principal.png)
 
 ### Agregando participantes
-![Agregando nombres](assets\AgregandoParticipantes.png)
+![Agregando nombres](assets\Agregando Participantes.png)
 
 ### Eliminando Participantes
-![Eliminando nombres](assets\EliminandoParticipantes.png)
+![Eliminando nombres](assets\Eliminando Participantes.png)
 
 ### Resultado del sorteo
-![Resultado](assets\Resultadodelsorteo.png)
+![Resultado](assets\Resultado del sorteo.png)
 
 ## Funcionalidades
 - Agregar nombres a la lista.
