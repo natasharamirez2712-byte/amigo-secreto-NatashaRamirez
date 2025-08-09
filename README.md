@@ -5,16 +5,16 @@ Permite agregar participantes, eliminarlos y realizar un sorteo aleatorio, está
 
 ## Capturas de pantalla y funcionabilidad
 ### Pantalla principal
-![Pantalla-Principal]("C:\Users\natas\OneDrive\Escritorio\challenge-amigo-secreto_esp-main\assets\Resultado-del-sorteo.png")
+![Pantalla Principal](assets/Pantalla-Principal.png)
 
 ### Agregando participantes
-![Agregando-Participantes](assets\Agregando-Participantes.png)
+![Agregando Participantes](assets/Agregando-Participantes.png)
 
 ### Eliminando Participantes
-![Eliminando-Participantes]("C:\Users\natas\OneDrive\Escritorio\challenge-amigo-secreto_esp-main\assets\Eliminando-Participantes.png")
+![Eliminando Participantes](assets/Eliminando-Participantes.png)
 
 ### Resultado del sorteo
-![Resultado-del-sorteo](assets\Resultado-del-sorteo.png)
+![Resultado del sorteo](assets/Resultado-del-sorteo.png)
 
 ## Funcionalidades
 - Agregar nombres a la lista.
